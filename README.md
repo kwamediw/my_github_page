@@ -2,7 +2,7 @@
 
 ### Hi there,  
 <div align="center">
-<img src="https://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg" align="center" style="width: 100%" />
+<img src="https://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg" align="center" style="width: 50%" />
 </div>  
   
 
